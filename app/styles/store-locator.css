@@ -1,0 +1,384 @@
+/* Lifestyle Stores - Store Locator Styling matching Live Site UI */
+
+.sl-page {
+  background-color: #fcfcfc;
+  min-height: calc(100vh - 80px);
+}
+
+.sl-header {
+  padding-bottom: 16px;
+}
+
+.sl-header h1 {
+  font-size: 26px;
+  font-weight: 500;
+  color: #292d35;
+  margin: 0;
+  letter-spacing: -0.2px;
+}
+
+.sl-header p {
+  font-size: 14px;
+  color: #757575;
+  margin: 4px 0 0;
+}
+
+.sl-map-container {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 210px);
+  min-height: 560px;
+  max-height: 780px;
+  background-color: #e5e3df;
+  border: 1px solid #e0e0e0;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+/* Full Leaflet map underneath */
+.sl-map {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+/* Floating White Overlay Panel on Left side of Map matching Live Site */
+.sl-floating-panel {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  bottom: 14px;
+  width: 330px;
+  max-width: calc(100% - 28px);
+  background: #ffffff;
+  z-index: 1000;
+  border-radius: 2px;
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.22);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* State selector dropdown header */
+.sl-select-container {
+  padding: 12px;
+  background: #ffffff;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.sl-select-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.sl-select {
+  width: 100%;
+  height: 40px;
+  padding: 0 32px 0 12px;
+  border: 1px solid #d4d4d4;
+  border-radius: 2px;
+  background: #ffffff;
+  font-size: 13px;
+  font-weight: 500;
+  color: #333333;
+  outline: none;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  transition: border-color 0.15s ease;
+}
+
+.sl-select:focus {
+  border-color: #faa619;
+}
+
+.sl-select-arrow {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  color: #faa619;
+}
+
+/* Store cards scrollable list */
+.sl-store-list {
+  flex: 1;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background: #ffffff;
+}
+
+/* Thin clean scrollbar */
+.sl-store-list::-webkit-scrollbar {
+  width: 5px;
+}
+.sl-store-list::-webkit-scrollbar-track {
+  background: #f7f7f7;
+}
+.sl-store-list::-webkit-scrollbar-thumb {
+  background: #cccccc;
+  border-radius: 2px;
+}
+.sl-store-list::-webkit-scrollbar-thumb:hover {
+  background: #aaaaaa;
+}
+
+.sl-store-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  padding: 12px 14px;
+  border: none;
+  border-bottom: 1px solid #f0f0f0;
+  background: #ffffff;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.sl-store-item:hover {
+  background-color: #f7f7f7;
+}
+
+.sl-store-item.is-active {
+  background-color: #eeeeee;
+}
+
+/* Numbered cyan circular badge matching Live Site */
+.sl-store-badge {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background-color: #00a7e1;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 700;
+  margin-top: 1px;
+}
+
+.sl-store-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.sl-store-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #292d35;
+  margin: 0 0 3px 0;
+  line-height: 1.2;
+}
+
+.sl-store-address {
+  font-size: 12px;
+  color: #666666;
+  margin: 0;
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.sl-store-phone {
+  font-size: 11px;
+  color: #888888;
+  margin-top: 4px;
+}
+
+/* Numbered Map Pin Marker matching Live Site */
+.sl-pin-wrap {
+  background: transparent !important;
+  border: none !important;
+}
+
+.sl-pin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50% 50% 50% 0;
+  background-color: #00a7e1;
+  border: 2px solid #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+  transform: rotate(-45deg);
+  transition: transform 0.15s ease, background-color 0.15s ease;
+}
+
+.sl-pin:hover,
+.sl-pin.is-active {
+  background-color: #008ec0;
+  transform: rotate(-45deg) scale(1.1);
+}
+
+.sl-pin span {
+  transform: rotate(45deg);
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 700;
+  font-family: inherit;
+  line-height: 1;
+}
+
+/* Map Controls matching Live Site (Map button on top left, Fullscreen on top right) */
+.sl-map-control-topleft {
+  position: absolute;
+  top: 14px;
+  left: 356px;
+  z-index: 999;
+}
+
+.sl-map-type-btn {
+  background: #ffffff;
+  color: #333333;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 6px 14px;
+  border: 1px solid #d0d0d0;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+
+.sl-map-control-topright {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  z-index: 999;
+}
+
+.sl-fullscreen-btn {
+  width: 36px;
+  height: 36px;
+  background: #ffffff;
+  border: 1px solid #d0d0d0;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #555555;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.sl-fullscreen-btn:hover {
+  background-color: #f7f7f7;
+}
+
+/* Leaflet Custom Popup matching Screenshot 4 */
+.leaflet-popup-content-wrapper {
+  padding: 0 !important;
+  border-radius: 4px !important;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.22) !important;
+  overflow: hidden;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+  line-height: 1.4 !important;
+  width: 250px !important;
+}
+
+.leaflet-popup-tip {
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15) !important;
+}
+
+.sl-popup-card {
+  padding: 16px 18px;
+  background: #ffffff;
+  font-family: inherit;
+}
+
+.sl-popup-brand {
+  font-size: 14px;
+  font-weight: 700;
+  color: #111111;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0 0 10px 0;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.sl-popup-address-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: #444444;
+  margin: 0 0 3px 0;
+}
+
+.sl-popup-address-text {
+  font-size: 12px;
+  color: #555555;
+  line-height: 1.45;
+  margin: 0 0 8px 0;
+}
+
+.sl-popup-phone {
+  font-size: 12px;
+  color: #333333;
+  margin: 0 0 10px 0;
+  font-weight: 500;
+}
+
+.sl-popup-actions {
+  display: flex;
+  gap: 14px;
+  padding-top: 8px;
+  border-top: 1px solid #f0f0f0;
+}
+
+.sl-popup-actions a {
+  font-size: 12px;
+  font-weight: 600;
+  color: #faa619;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.sl-popup-actions a:hover {
+  color: #d98207;
+  text-decoration: underline;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .sl-map-container {
+    height: auto;
+    min-height: auto;
+    max-height: none;
+    display: flex;
+    flex-direction: column;
+    border: none;
+  }
+
+  .sl-map {
+    height: 340px;
+    min-height: 340px;
+  }
+
+  .sl-floating-panel {
+    position: static;
+    width: 100%;
+    max-width: 100%;
+    height: 380px;
+    box-shadow: none;
+    border-top: 1px solid #e0e0e0;
+    border-radius: 0;
+  }
+
+  .sl-map-control-topleft {
+    display: none;
+  }
+}

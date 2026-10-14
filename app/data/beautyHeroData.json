@@ -1,0 +1,112 @@
+{
+  "hero_banners": [
+    {
+      "position": 1,
+      "banner_name": "lifestylein-DeptPage-beauty-TabbedBanner9",
+      "promotion_name": "LMG Simple Responsive Component-widget3",
+      "banner_type": "lifestylein-DeptPage-beauty-v2-MainBannerSlot",
+      "link": "/in/en/search?q=*%3AallCategories%3Abeauty%3Aindex%3Adiscount%3AmanufacturerName_uFilter%3AMaybelline%3AmanufacturerName_uFilter%3AForever52%3AmanufacturerName_uFilter%3AL%27Oreal",
+      "desktop_image_url": "https://cms.landmarkshops.in/LS-Fest/LS-new/LS-Banner9-desktop-Beauty-01Oct26.gif",
+      "mobile_image_url": "https://cms.landmarkshops.in/LS-Fest/LS-new/LS-Banner9-mobile-Beauty-01Oct26.gif",
+      "image_id": "hero_banner_image_0"
+    },
+    {
+      "position": 2,
+      "banner_name": "lifestylein-DeptPage-beauty-TabbedBanner1",
+      "promotion_name": "Beauty_Banner_1_Best4Days_22Dec-widget3",
+      "banner_type": "lifestylein-DeptPage-beauty-v2-MainBannerSlot",
+      "link": "/in/en/search?q=*%3AallCategories%3Abeauty%3Aindex%3Adiscount",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/HP_LS_Beauty_Desktop-1-06Oct26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/HP_LS_Beauty_Mobile-1-06Oct26.jpg",
+      "image_id": "hero_banner_image_1"
+    },
+    {
+      "position": 3,
+      "banner_name": "lifestylein-DeptPage-beauty-TabbedBanner2",
+      "promotion_name": "Beauty_Banner_2_WinterGlamLakme_22Dec-widget3",
+      "banner_type": "lifestylein-DeptPage-beauty-v2-MainBannerSlot",
+      "link": "/in/en/search?q=*%3AallCategories%3Abeauty",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/HP_LS_Beauty_Desktop-2-26May26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/HP_LS_Beauty_Mobile-2-26May26.jpg",
+      "image_id": "hero_banner_image_2"
+    },
+    {
+      "position": 4,
+      "banner_name": "lifestylein-DeptPage-beauty-TabbedBanner3",
+      "promotion_name": "Beauty_Banner_3_LorealMaybelline_22Dec-widget3",
+      "banner_type": "lifestylein-DeptPage-beauty-v2-MainBannerSlot",
+      "link": "/in/en/c/beauty?q=%3AmanufacturerName_uFilter%3AThe%20Body%20Shop",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/HP_LS_Beauty_Desktop-3-19June2026.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/HP_LS_Beauty_Mobile-3-19June2026.jpg",
+      "image_id": "hero_banner_image_3"
+    },
+    {
+      "position": 5,
+      "banner_name": "lifestylein-DeptPage-beauty-TabbedBanner5",
+      "promotion_name": "Beauty_Banner_5_FragrancesForHer_22Dec-widget3",
+      "banner_type": "lifestylein-DeptPage-beauty-v2-MainBannerSlot",
+      "link": "/in/en/c/beauty?q=%3AmanufacturerName_uFilter%3AL%27Oreal",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner5-desktop-Beauty-26Feb26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner5-mobile-Beauty-26Feb26.jpg",
+      "image_id": "hero_banner_image_4"
+    },
+    {
+      "position": 6,
+      "banner_name": "lifestylein-DeptPage-beauty-TabbedBanner6",
+      "promotion_name": "Beauty_Banner_6_WatchesForHer_22Dec-widget3",
+      "banner_type": "lifestylein-DeptPage-beauty-v2-MainBannerSlot",
+      "link": "/in/en/search?q=*%3AallCategories%3Abeauty-lips%3AmanufacturerName_uFilter%3AMaybelline",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner6-desktop-Beauty-21Jul26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner6-mobile-Beauty-21Jul26.jpg",
+      "image_id": "hero_banner_image_5"
+    },
+    {
+      "position": 7,
+      "banner_name": "lifestylein-DeptPage-beauty-TabbedBanner7",
+      "promotion_name": "Womens banner 3 : Beauty-widget3",
+      "banner_type": "lifestylein-DeptPage-beauty-v2-MainBannerSlot",
+      "link": "/in/en/c/beauty?q=%3AmanufacturerName_uFilter%3AColorbar",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner7-desktop-Beauty-26Feb26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner7-mobile-Beauty-26Feb26.jpg",
+      "image_id": "hero_banner_image_6"
+    },
+    {
+      "position": 8,
+      "banner_name": "lifestylein-DeptPage-beauty-TabbedBanner8",
+      "promotion_name": "Womens banner 4 : Tops, tees & dresses-widget3",
+      "banner_type": "lifestylein-DeptPage-beauty-v2-MainBannerSlot",
+      "link": "/in/en/c/beauty-fragrance-perfumes",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner8-desktop-Beauty-26Feb26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner8-mobile-Beauty-26Feb26.jpg",
+      "image_id": "hero_banner_image_7"
+    },
+    {
+      "position": 9,
+      "banner_name": "lifestylein-DeptPage-beauty-TabbedBanner10",
+      "promotion_name": "LMG Simple Responsive Component-widget3",
+      "banner_type": "lifestylein-DeptPage-beauty-v2-MainBannerSlot",
+      "link": "/in/en/search?q=%3AbadgeInvisible_uFilter%3A007T",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner10-desktop-Beauty-04May26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner10-mobile-Beauty-04May26.jpg",
+      "image_id": "hero_banner_image_8"
+    }
+  ],
+  "modular_blocks": [
+    {
+      "banner_name": "lifestylein-DeptPage-beauty-ModularBlocks-5-Banner1",
+      "promotion_name": "Beauty_Strip_4_Iksu_10Aug-widget4",
+      "banner_type": "lifestylein-DeptPage-beauty-v2-Section2ASlot",
+      "link": "/in/en/c/women-beauty-fragrance?discount=10,100",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-dept-5modblock-oneBytwo1-C-beauty-19Jun26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/mobile-dept-5modblock-oneBytwo1-C-beauty-19Jun26.jpg"
+    },
+    {
+      "banner_name": "lifestylein-DeptPage-beauty-ModularBlocks-6-Banner1",
+      "promotion_name": "LMG Simple Responsive Component-widget5",
+      "banner_type": "lifestylein-DeptPage-beauty-v2-Section3ASlot",
+      "link": "/in/en/c/beauty?q=%3AmanufacturerName_uFilter%3AIksu",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-dept-6modblk-oneBythree-A-Beauty-16Sep25.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/mobile-dept-6modblk-oneBythree-A-Beauty-16Sep25.jpg"
+    }
+  ]
+}

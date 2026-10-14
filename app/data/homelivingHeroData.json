@@ -1,0 +1,54 @@
+{
+  "hero_banners": [
+    {
+      "position": 1,
+      "banner_name": "lifestylein-DeptPage-homeliving-TabbedBanner1",
+      "promotion_name": "Hero Banner1 – Décor-widget2",
+      "banner_type": "lifestylein-DeptPage-homeliving-v2-MainBannerSlot",
+      "link": "/in/en/c/decor?q=%3Aindex%3Arecent-products",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=70,fit=cover/LS-Fest/LS-new/HP_LS_HomeLiving_Desktop-1-08Oct26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=70,fit=cover/LS-Fest/LS-new/HP_LS_HomeLiving_Mobile-1-08Oct26.jpg",
+      "image_id": "hero_banner_image_0"
+    },
+    {
+      "position": 2,
+      "banner_name": "lifestylein-DeptPage-homeliving-TabbedBanner2",
+      "promotion_name": "Hero Banner 2 – Furnishing-widget2",
+      "banner_type": "lifestylein-DeptPage-homeliving-v2-MainBannerSlot",
+      "link": "/in/en/c/furnishing?q=%3Aindex%3Adiscount",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=70,fit=cover/LS-Fest/LS-new/HP_LS_HomeLiving_Desktop-2-08Oct26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=70,fit=cover/LS-Fest/LS-new/HP_LS_HomeLiving_Mobile-2-08Oct26.jpg",
+      "image_id": "hero_banner_image_1"
+    },
+    {
+      "position": 3,
+      "banner_name": "lifestylein-DeptPage-homeliving-TabbedBanner3",
+      "promotion_name": "Hero Banner 3- Kitchenware-widget2",
+      "banner_type": "lifestylein-DeptPage-homeliving-v2-MainBannerSlot",
+      "link": "/in/en/c/kitchen",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=70,fit=cover/LS-Fest/LS-new/HP_LS_HomeLiving_Desktop-3-08Oct26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=70,fit=cover/LS-Fest/LS-new/HP_LS_HomeLiving_Mobile-3-08Oct26.jpg",
+      "image_id": "hero_banner_image_2"
+    },
+    {
+      "position": 4,
+      "banner_name": "lifestylein-DeptPage-homeliving-TabbedBanner4",
+      "promotion_name": "Hero Banner 4 – Tableware-widget2",
+      "banner_type": "lifestylein-DeptPage-homeliving-v2-MainBannerSlot",
+      "link": "/in/en/c/dining",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=70,fit=cover/LS-Fest/LS-new/HP_LS_HomeLiving_Desktop-4-08Oct26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=70,fit=cover/LS-Fest/LS-new/HP_LS_HomeLiving_Mobile-4-08Oct26.jpg",
+      "image_id": "hero_banner_image_3"
+    },
+    {
+      "position": 5,
+      "banner_name": "lifestylein-DeptPage-homeliving-TabbedBanner5",
+      "promotion_name": "Hero Banner 5 -  Bath & Laundry-widget2",
+      "banner_type": "lifestylein-DeptPage-homeliving-v2-MainBannerSlot",
+      "link": "/in/en/c/bathandlaundry?q=%3Aindex%3Arecent-products",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=70,fit=cover/LS-Fest/LS-new/LS-Banner5-desktop-HomeLiving-08Oct26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=70,fit=cover/LS-Fest/LS-new/LS-Banner5-mobile-HomeLiving-08Oct26.jpg",
+      "image_id": "hero_banner_image_4"
+    }
+  ]
+}

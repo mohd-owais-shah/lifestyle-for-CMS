@@ -1,0 +1,386 @@
+{
+  "page": "Bags",
+  "sections": [
+    {
+      "section_id": "Section1",
+      "section_name": "New Arrivals",
+      "section_type": "single_banner",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-bags-ModularBlocks-8-Banner1",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ASlot",
+          "banner_title": "New Arrivals",
+          "banner_position": null,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "S&B_Strip_3_NewarrivalsHB_9sep-widget4",
+          "promotion_position": "Slot1",
+          "href": "/in/en/c/bags?q=%3AbadgeVisibleTitle_uFilter%3ANew",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-dept-12modblock-Bags-A-StripBanner1-06Oct26.jpg",
+          "alt": "New Arrivals"
+        }
+      ]
+    },
+    {
+      "section_id": "Section2",
+      "section_name": "New Arrivals Carousel",
+      "section_type": "carousel",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-1-Banner1",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ASlot",
+          "banner_title": null,
+          "banner_position": 1,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "Block 1: Ballerinas-widget4",
+          "promotion_position": "Slot1",
+          "href": "/in/en/c/bags-women?q=%3Atype_uFilter%3AHandheld%3Atype_uFilter%3ALaptop%20Bags%3Atype_uFilter%3AShoulder%3AbadgeVisibleTitle_uFilter%3ANew",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-A-1-Desktop-Bags-02Sep26.jpg",
+          "alt": ""
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-1-Banner2",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ASlot",
+          "banner_title": null,
+          "banner_position": 2,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "Block 2: Flats-widget4",
+          "promotion_position": "Slot2",
+          "href": "/in/en/c/bags-women-clutches?q=%3Atype_uFilter%3ABox%3Atype_uFilter%3AEnvelope%3Atype_uFilter%3AFoldover%3Atype_uFilter%3ASling%20Bags%3Atype_uFilter%3ASling%3AbadgeVisibleTitle_uFilter%3ANew",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-A-2-Desktop-Bags-02Sep26.jpg",
+          "alt": ""
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-1-Banner3",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ASlot",
+          "banner_title": null,
+          "banner_position": 3,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "Block 3: Women's Casual Shoes-widget4",
+          "promotion_position": "Slot3",
+          "href": "/in/en/c/bags-women-slings?q=%3Atype_uFilter%3ABox%3Atype_uFilter%3AEnvelope%3Atype_uFilter%3AFoldover%3Atype_uFilter%3ASling%20Bags%3Atype_uFilter%3ASling%3AbadgeVisibleTitle_uFilter%3ANew",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-A-3-Desktop-Bags-02Sep26.jpg",
+          "alt": ""
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-1-Banner4",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ASlot",
+          "banner_title": null,
+          "banner_position": 4,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "Block 4: Heels-widget4",
+          "promotion_position": "Slot4",
+          "href": "/in/en/search?q=*%3AallCategories%3Abags%3Atype_uFilter%3ALaptop%20Bags%3AbadgeVisibleTitle_uFilter%3ANew",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-A-4-Desktop-Bags-02Sep26.jpg",
+          "alt": ""
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-1-Banner5",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ASlot",
+          "banner_title": null,
+          "banner_position": 5,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "Block 5: Women's Flip Flops-widget4",
+          "promotion_position": "Slot5",
+          "href": "/in/en/search?q=Backpacks%3AallCategories%3Abags%3AbadgeVisibleTitle_uFilter%3ANew",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-A-5-Desktop-Bags-02Sep26.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "section_id": "Section3",
+      "section_name": "Brand Promotion Strip",
+      "section_type": "single_banner",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-bags-ModularBlocks-1-Banner1",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3BSlot",
+          "banner_title": "",
+          "banner_position": null,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget5",
+          "promotion_position": "Slot1",
+          "href": "/in/en/c/bags?q=%3AmanufacturerName_uFilter%3AUnited%20Colors%20Of%20Benetton%3AmanufacturerName_uFilter%3ATommy%20Hilfiger",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-dept-10modblock-Bags-A-stripBanner1-18Aug26.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "section_id": "Section4",
+      "section_name": "Top Categories",
+      "section_type": "carousel",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-3-Banner1",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3CSlot",
+          "banner_title": "Top Categories",
+          "banner_position": 1,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot1",
+          "href": "/in/en/c/bags-women?q=%3Atype_uFilter%3AHandheld%3Atype_uFilter%3ALaptop%20Bags%3Atype_uFilter%3AShoulder",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-1-Desktop-Bags-02Sep26A.jpg",
+          "alt": "Top Categories"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-3-Banner2",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3CSlot",
+          "banner_title": "Top Categories",
+          "banner_position": 2,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot2",
+          "href": "/in/en/c/bags-women-slings?q=%3Atype_uFilter%3ABox%3Atype_uFilter%3AEnvelope%3Atype_uFilter%3AFoldover%3Atype_uFilter%3ASling%20Bags%3Atype_uFilter%3ASling",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-2-Desktop-Bags-02Sep26A.jpg",
+          "alt": "Top Categories"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-3-Banner3",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3CSlot",
+          "banner_title": "Top Categories",
+          "banner_position": 3,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot3",
+          "href": "/in/en/c/bags?q=%3Atype_uFilter%3ABi-Fold%3Atype_uFilter%3ABelts%3Atype_uFilter%3ATri-Fold",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-3-Desktop-Bags-02Sep26A.jpg",
+          "alt": "Top Categories"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-3-Banner4",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3CSlot",
+          "banner_title": "Top Categories",
+          "banner_position": 4,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot4",
+          "href": "/in/en/search?q=*%3AallCategories%3Abags%3Atype_uFilter%3ALaptop%20Bags",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-4-Desktop-Bags-02Sep26A.jpg",
+          "alt": "Top Categories"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-3-Banner5",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3CSlot",
+          "banner_title": "Top Categories",
+          "banner_position": 5,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot5",
+          "href": "/in/en/c/bags-women-pouchandvanitycase",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-5-Desktop-Bags-02Sep26A.jpg",
+          "alt": "Top Categories"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-3-Banner6",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3CSlot",
+          "banner_title": "Top Categories",
+          "banner_position": 6,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot6",
+          "href": "/in/en/c/bags-women-clutches?q=%3Atype_uFilter%3ABox%3Atype_uFilter%3AEnvelope%3Atype_uFilter%3AFoldover%3Atype_uFilter%3ASling%20Bags%3Atype_uFilter%3ASling",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-6-Desktop-Bags-02Sep26A.jpg",
+          "alt": "Top Categories"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-3-Banner7",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3CSlot",
+          "banner_title": "Top Categories",
+          "banner_position": 7,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot7",
+          "href": "/in/en/search?q=Backpacks%3AallCategories%3Abags",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-7-Desktop-Bags-02Sep26A.jpg",
+          "alt": "Top Categories"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-3-Banner8",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3CSlot",
+          "banner_title": "Top Categories",
+          "banner_position": 8,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot8",
+          "href": "/in/en/search?q=Backpacks%3AallCategories%3Abags-kids",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-8-Desktop-Bags-02Sep26A.jpg",
+          "alt": "Top Categories"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-3-Banner9",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3CSlot",
+          "banner_title": "Top Categories",
+          "banner_position": 9,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot9",
+          "href": "/in/en/c/bags-luggage",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-9-Desktop-Bags-02Sep26A.jpg",
+          "alt": "Top Categories"
+        }
+      ]
+    },
+    {
+      "section_id": "Section5",
+      "section_name": "Trends Highlight",
+      "section_type": "carousel",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-2-Banner1",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3DSlot",
+          "banner_title": "Trends Highlight",
+          "banner_position": 1,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget7",
+          "promotion_position": "Slot1",
+          "href": "/in/en/c/bags-women?q=%3Acolor_uFilter%3Agold%3Acolor_uFilter%3Asilver",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-1-Desktop-LS-Bags-02Sep26.jpg",
+          "alt": "Trends Highlight"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-2-Banner2",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3DSlot",
+          "banner_title": "Trends Highlight",
+          "banner_position": 2,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget7",
+          "promotion_position": "Slot2",
+          "href": "/in/en/c/bags-women-handbags?q=%3Acolor_uFilter%3Agreen%3Acolor_uFilter%3Ablue%3Acolor_uFilter%3Apink%3Acolor_uFilter%3Ayellow%3Acolor_uFilter%3Anude%3Acolor_uFilter%3Aolive",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-2-Desktop-LS-Bags-02Sep26.jpg",
+          "alt": "Trends Highlight"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-2-Banner3",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3DSlot",
+          "banner_title": "Trends Highlight",
+          "banner_position": 3,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget7",
+          "promotion_position": "Slot3",
+          "href": "/in/en/search?q=hobos%3AallCategories%3Abags-women",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-3-Desktop-LS-Bags-02Sep26.jpg",
+          "alt": "Trends Highlight"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-2-Banner4",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3DSlot",
+          "banner_title": "Trends Highlight",
+          "banner_position": 4,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget7",
+          "promotion_position": "Slot4",
+          "href": "/in/en/c/bags-women-backpack",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-4-Desktop-LS-Bags-02Sep26.jpg",
+          "alt": "Trends Highlight"
+        }
+      ]
+    },
+    {
+      "section_id": "Section6",
+      "section_name": "Top Brands",
+      "section_type": "carousel",
+      "source_status": "truncated_in_uploaded_html",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-8-Banner1",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ESlot",
+          "banner_title": "Top Brands",
+          "banner_position": 1,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget8",
+          "promotion_position": "Slot1",
+          "href": "/in/en/c/bags-women?q=%3AmanufacturerName_uFilter%3AGuess",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-1-Desktop-Shoes-27Feb26.jpg",
+          "alt": "Top Brands"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-8-Banner2",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ESlot",
+          "banner_title": "Top Brands",
+          "banner_position": 2,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget8",
+          "promotion_position": "Slot2",
+          "href": "/in/en/c/bags-women?q=%3AmanufacturerName_uFilter%3AGinger",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-2-Desktop-Shoes-27Feb26.jpg",
+          "alt": "Top Brands"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-8-Banner6",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ESlot",
+          "banner_title": "Top Brands",
+          "banner_position": 3,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget8",
+          "promotion_position": "Slot3",
+          "href": "/in/en/c/bags-women?q=%3AmanufacturerName_uFilter%3ACODE",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-6-Desktop-Shoes-27Feb26.jpg",
+          "alt": "Top Brands"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-8-Banner7",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ESlot",
+          "banner_title": "Top Brands",
+          "banner_position": 4,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget8",
+          "promotion_position": "Slot4",
+          "href": "/in/en/c/bags-women?q=%3AmanufacturerName_uFilter%3AElle",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-7-Desktop-Shoes-27Feb26.jpg",
+          "alt": "Top Brands"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-8-Banner5",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ESlot",
+          "banner_title": "Top Brands",
+          "banner_position": 5,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget8",
+          "promotion_position": "Slot5",
+          "href": "/in/en/search?q=*%3AallCategories%3Abags%3AmanufacturerName_uFilter%3AIrth",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-5-Desktop-Shoes-27Feb26.jpg",
+          "alt": "Top Brands"
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-bags-BannerCarousel-8-Banner8",
+          "banner_type": "lifestylein-DeptPage-bags-v2-Section3ESlot",
+          "banner_title": "Top Brands",
+          "banner_position": 6,
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget8",
+          "promotion_position": "Slot6",
+          "href": "/in/en/search?q=*%3AallCategories%3Abags%3AmanufacturerName_uFilter%3AAllen%20Solly",
+          "image": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-8-Desktop-Shoes-27Feb26A.jpg",
+          "alt": "Top Brands"
+        }
+      ]
+    }
+  ]
+}

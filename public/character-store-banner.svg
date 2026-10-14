@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1276 214" width="1276" height="214">
+  <defs>
+    <!-- Pixel Heart White -->
+    <g id="pixel-heart-white">
+      <path fill="#ffffff" d="M4 2h4v2H4zm8 0h4v2h-4zM2 4h8v2H2zm8 0h8v2h-8zM2 6h16v2H2zm2 2h12v2H4zm2 2h8v2H6zm2 2h4v2H8zm1 2h2v1H9z" />
+    </g>
+  </defs>
+
+  <!-- Slate Blue Background -->
+  <rect width="100%" height="100%" fill="#698FA8" />
+
+  <!-- Pixel Heart Left -->
+  <use href="#pixel-heart-white" x="320" y="90" transform="scale(1.2) translate(-60, -10)" />
+
+  <!-- Center Typography -->
+  <text x="638" y="124" font-family="'Times New Roman', Georgia, serif" font-size="50" font-weight="700" letter-spacing="8" fill="#ffffff" text-anchor="middle" style="filter: drop-shadow(0px 2px 4px rgba(0,0,0,0.25));">CHARACTER STORE</text>
+
+  <!-- Pixel Heart Right -->
+  <use href="#pixel-heart-white" x="930" y="90" transform="scale(1.2) translate(10, -10)" />
+</svg>

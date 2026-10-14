@@ -1,0 +1,850 @@
+{
+  "page_name": "Home & Living",
+  "source": "User-provided raw HTML",
+  "source_root": "jss638",
+  "extraction_notes": [
+    "All 21 banner records present in the supplied HTML are included with their tracking metadata, links, image URLs, alt text, and image attributes.",
+    "Sections shown as loading skeletons in the supplied HTML are represented as placeholders; no item names, links, or image URLs were invented.",
+    "Carousel headings are null where the supplied HTML did not include a visible heading."
+  ],
+  "section_count": 11,
+  "banner_record_count": 21,
+  "sections": [
+    {
+      "section_number": 1,
+      "section_name": "500+ Gifting Ideas",
+      "section_heading": "500+ Gifting Ideas",
+      "section_type": "banner_grid",
+      "source_section_type": "lifestylein-DeptPage-homeliving-v2-Section3CSlot",
+      "layout": "3_column_grid",
+      "content_status": "loaded",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-ModularBlocks-14-Banner1",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3CSlot",
+          "banner_title": "500+ Gifting Ideas",
+          "banner_position": null,
+          "banner_level_1": null,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "Top Category pick 1-widget3",
+          "promotion_position": "Slot1",
+          "link": {
+            "href": "/in/en/c/decor?price=499,999&range=74,7199",
+            "target": "_self",
+            "aria_label": "banner-links"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=500,q=70,fit=cover/LS-Fest/LS-new/desktop-dept-14modularblock-oneBythree-A-Homeliving-08Apr26.jpg",
+            "alt": "500+ Gifting Ideas",
+            "width": null,
+            "style": "filter: none;"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-ModularBlocks-14-Banner2",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3CSlot",
+          "banner_title": "500+ Gifting Ideas",
+          "banner_position": null,
+          "banner_level_1": null,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "Top Category pick 2-widget3",
+          "promotion_position": "Slot2",
+          "link": {
+            "href": "/in/en/c/decor?price=1000,1999&range=74,7199",
+            "target": "_self",
+            "aria_label": "banner-links"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=500,q=70,fit=cover/LS-Fest/LS-new/desktop-dept-14modularblock-oneBythree-B-Homeliving-08Apr26.jpg",
+            "alt": "500+ Gifting Ideas",
+            "width": null,
+            "style": "filter: none;"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-ModularBlocks-14-Banner3",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3CSlot",
+          "banner_title": "500+ Gifting Ideas",
+          "banner_position": null,
+          "banner_level_1": null,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "Top Category pick 3-widget3",
+          "promotion_position": "Slot3",
+          "link": {
+            "href": "/in/en/c/decor?price=2000,99999&range=74,7199",
+            "target": "_self",
+            "aria_label": "banner-links"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=500,q=70,fit=cover/LS-Fest/LS-new/desktop-dept-14modularblock-oneBythree-C-Homeliving-08Apr26.jpg",
+            "alt": "500+ Gifting Ideas",
+            "width": null,
+            "style": "filter: none;"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 2,
+      "section_name": "Decor",
+      "section_heading": "Decor",
+      "section_type": "single_banner",
+      "source_section_type": "lifestylein-DeptPage-homeliving-v2-Section3CSlot",
+      "layout": "full_width_banner",
+      "content_status": "loaded",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-ModularBlocks-3-Banner1",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3CSlot",
+          "banner_title": "Decor",
+          "banner_position": null,
+          "banner_level_1": null,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "Block 1: Women Spot deals block 1-widget3",
+          "promotion_position": "Slot1",
+          "link": {
+            "href": "/in/en/c/decor",
+            "target": "_self",
+            "aria_label": "banner-links"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=70,fit=cover/LS-Fest/LS-new/desktopp-Homeliving-modularblock-oneBythree-A-08Apr26.jpg",
+            "alt": "Decor",
+            "width": null,
+            "style": "filter: none;"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 3,
+      "section_name": "Decor Category Carousel",
+      "section_heading": null,
+      "related_heading": "Decor",
+      "section_type": "carousel",
+      "source_block_id": "block-lifestylein-DeptPage-homeliving-v2-Section3DSlot",
+      "source_section_type": "lifestylein-DeptPage-homeliving-v2-Section3DSlot",
+      "source_component_id": "lifestylein-DeptPage-homeliving-BannerCarousel-7-Comp",
+      "content_status": "loaded",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-7-Banner1",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3DSlot",
+          "banner_title": "",
+          "banner_position": 1,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget4",
+          "promotion_position": "Slot1",
+          "link": {
+            "href": "/in/en/c/decor-homefragrance",
+            "target": null,
+            "aria_label": "link-0-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-G-1-Homeliving-Desktop-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-7-Banner2",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3DSlot",
+          "banner_title": "",
+          "banner_position": 2,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget4",
+          "promotion_position": "Slot2",
+          "link": {
+            "href": "/in/en/c/decor-lighting",
+            "target": null,
+            "aria_label": "link-1-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-G-2-Homeliving-Desktop-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-7-Banner3",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3DSlot",
+          "banner_title": "",
+          "banner_position": 3,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget4",
+          "promotion_position": "Slot3",
+          "link": {
+            "href": "/in/en/c/decor-garden",
+            "target": null,
+            "aria_label": "link-2-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-G-3-Homeliving-Desktop-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-7-Banner4",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3DSlot",
+          "banner_title": "",
+          "banner_position": 4,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget4",
+          "promotion_position": "Slot4",
+          "link": {
+            "href": "/in/en/c/decor-wallaccent",
+            "target": null,
+            "aria_label": "link-3-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-G-4-Homeliving-Desktop-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-7-Banner5",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3DSlot",
+          "banner_title": "",
+          "banner_position": 5,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget4",
+          "promotion_position": "Slot5",
+          "link": {
+            "href": "/in/en/c/decor-homeaccessories-figurines",
+            "target": null,
+            "aria_label": "link-4-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-G-5-Homeliving-Desktop-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-7-Banner6",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3DSlot",
+          "banner_title": "",
+          "banner_position": 6,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget4",
+          "promotion_position": "Slot6",
+          "link": {
+            "href": "/in/en/c/decor-homeaccessories-candleholdersandlanterns",
+            "target": null,
+            "aria_label": "link-5-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-G-6-Homeliving-Desktop-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-7-Banner7",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3DSlot",
+          "banner_title": "",
+          "banner_position": 7,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget4",
+          "promotion_position": "Slot7",
+          "link": {
+            "href": "/in/en/c/decor-homeaccessories-clocks",
+            "target": null,
+            "aria_label": "link-6-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-G-7-Homeliving-Desktop-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-7-Banner8",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3DSlot",
+          "banner_title": "",
+          "banner_position": 8,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget4",
+          "promotion_position": "Slot8",
+          "link": {
+            "href": "/in/en/c/decor-homeaccessories-vases",
+            "target": null,
+            "aria_label": "link-7-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-G-8-Homeliving-Desktop-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 4,
+      "section_name": "Furnishing",
+      "section_heading": "Furnishing",
+      "section_type": "single_banner",
+      "source_section_type": "lifestylein-DeptPage-homeliving-v2-Section3FSlot",
+      "layout": "full_width_banner",
+      "content_status": "loaded",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-ModularBlocks-4-Banner1",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3FSlot",
+          "banner_title": "Furnishing",
+          "banner_position": null,
+          "banner_level_1": null,
+          "banner_text": null,
+          "promotion_id": "Content Slot",
+          "promotion_name": "Block 1 Women : tops & tee-widget5",
+          "promotion_position": "Slot1",
+          "link": {
+            "href": "/in/en/c/furnishing",
+            "target": "_self",
+            "aria_label": "banner-links"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=70,fit=cover/LS-Fest/LS-new/desktopp-Homeliving-modblock4-oneBythree-D-08Apr26.jpg",
+            "alt": "Furnishing",
+            "width": null,
+            "style": "filter: blur(1px);"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 5,
+      "section_name": "Furnishing Category Carousel",
+      "section_heading": null,
+      "related_heading": "Furnishing",
+      "section_type": "carousel",
+      "source_block_id": "block-lifestylein-DeptPage-homeliving-v2-Section3GSlot",
+      "source_section_type": "lifestylein-DeptPage-homeliving-v2-Section3GSlot",
+      "source_component_id": "lifestylein-DeptPage-homeliving-BannerCarousel-1-Comp",
+      "content_status": "loaded",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-1-Banner1",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3GSlot",
+          "banner_title": "",
+          "banner_position": 1,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot1",
+          "link": {
+            "href": "/in/en/c/furnishing-bedding-doublebedsheets",
+            "target": null,
+            "aria_label": "link-0-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-1-Desktop-Homeliving-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-1-Banner2",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3GSlot",
+          "banner_title": "",
+          "banner_position": 2,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot2",
+          "link": {
+            "href": "/in/en/c/furnishing-bedding-blanketsandquilts?q=%3Aindex%3Aprice",
+            "target": null,
+            "aria_label": "link-1-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-2-Desktop-Homeliving-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-1-Banner3",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3GSlot",
+          "banner_title": "",
+          "banner_position": 3,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot3",
+          "link": {
+            "href": "/in/en/c/furnishing-bedding-pillowsandpillowcovers?q=%3Aindex%3Aprice",
+            "target": null,
+            "aria_label": "link-2-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-3-Desktop-Homeliving-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-1-Banner4",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3GSlot",
+          "banner_title": "",
+          "banner_position": 4,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot4",
+          "link": {
+            "href": "/in/en/c/furnishing-bedding-comforters",
+            "target": null,
+            "aria_label": "link-3-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-4-Desktop-Homeliving-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-1-Banner5",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3GSlot",
+          "banner_title": "",
+          "banner_position": 5,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot5",
+          "link": {
+            "href": "/in/en/c/furnishing-bedding-singlebedsheets?q=%3Aindex%3Aprice",
+            "target": null,
+            "aria_label": "link-4-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-5-Desktop-Homeliving-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-1-Banner6",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3GSlot",
+          "banner_title": "",
+          "banner_position": 6,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot6",
+          "link": {
+            "href": "/in/en/c/furnishing-cushions",
+            "target": null,
+            "aria_label": "link-5-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-6-Desktop-Homeliving-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-1-Banner7",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3GSlot",
+          "banner_title": "",
+          "banner_position": 7,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot7",
+          "link": {
+            "href": "/in/en/c/furnishing-curtains?q=%3Aindex%3Aprice",
+            "target": null,
+            "aria_label": "link-6-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-7-Desktop-Homeliving-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-BannerCarousel-1-Banner8",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3GSlot",
+          "banner_title": "",
+          "banner_position": 8,
+          "banner_level_1": "",
+          "banner_text": "",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget6",
+          "promotion_position": "Slot8",
+          "link": {
+            "href": "/in/en/c/furnishing-floorcoverings",
+            "target": null,
+            "aria_label": "link-7-0"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-8-Desktop-Homeliving-08Apr26.jpg",
+            "alt": "",
+            "width": "100%",
+            "style": "filter: blur(1px);"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 6,
+      "section_name": "kitchenware",
+      "section_heading": "kitchenware",
+      "section_type": "modular_content",
+      "source_section_type": null,
+      "content_status": "loaded",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-ModularBlocks-1-Banner1",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3HSlot",
+          "banner_title": "kitchenware",
+          "link": {
+            "href": "/in/en/c/kitchen"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=70,fit=cover/LS-Fest/LS-new/desktopp-Homeliving-modularblock1-A-08Apr26.jpg",
+            "alt": "kitchenware"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 7,
+      "section_name": "Kitchenware Category Carousel",
+      "section_heading": null,
+      "related_heading": "kitchenware",
+      "section_type": "carousel",
+      "source_block_id": "block-lifestylein-DeptPage-homeliving-v2-Section3ISlot",
+      "content_status": "loaded",
+      "items": [
+        {
+          "banner_name": "banner1",
+          "link": {
+            "href": "/in/en/c/kitchen-storageandcontainers?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PCA3-G-1-Homeliving-Desktop-08Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner2",
+          "link": {
+            "href": "/in/en/c/kitchen-storageandcontainers-organisers?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PCA3-G-2-Homeliving-Desktop-08Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner3",
+          "link": {
+            "href": "/in/en/c/kitchen-cooking-potsandpans?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PCA3-G-3-Homeliving-Desktop-08Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner4",
+          "link": {
+            "href": "/in/en/c/kitchen-kitchenware-toolsandgadgets"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PCA3-G-4-Homeliving-Desktop-08Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner5",
+          "link": {
+            "href": "/in/en/c/kitchen-storageandcontainers-bottles"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PCA3-G-5-Homeliving-Desktop-08Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner6",
+          "link": {
+            "href": "/in/en/c/kitchen-kitchenware-oilandvinegarserver?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PCA3-G-6-Homeliving-Desktop-08Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner7",
+          "link": {
+            "href": "/in/en/c/kitchen-cooking-cookwaresets?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PCA3-G-7-Homeliving-Desktop-08Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner8",
+          "link": {
+            "href": "/in/en/c/kitchen-kitchenware-kitchentrolley"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PCA3-G-8-Homeliving-Desktop-08Apr26.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 8,
+      "section_name": "Crockery & Table Linen",
+      "section_heading": "Crockery & Table Linen",
+      "section_type": "modular_content",
+      "source_section_type": null,
+      "content_status": "loaded",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-ModularBlocks-10-Banner1",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3JSlot",
+          "banner_title": "Crockery & Table Linen",
+          "link": {
+            "href": "/in/en/c/dining"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=70,fit=cover/LS-Fest/LS-new/desktopp-dept-10modblock-oneBythree-A-Homeliving-09Apr26.jpg",
+            "alt": "Crockery & Table Linen"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 9,
+      "section_name": "Crockery & Table Linen Category Carousel",
+      "section_heading": null,
+      "related_heading": "Crockery & Table Linen",
+      "section_type": "carousel",
+      "source_block_id": "block-lifestylein-DeptPage-homeliving-v2-Section3KSlot",
+      "content_status": "loaded",
+      "items": [
+        {
+          "banner_name": "banner1",
+          "link": {
+            "href": "/in/en/c/dining-crockery-mugsandcups"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-B-1-Homeliving-Desktop-09Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner2",
+          "link": {
+            "href": "/in/en/c/dining-crockery-bowls"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-B-2-Homeliving-Desktop-09Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner3",
+          "link": {
+            "href": "/in/en/search?q=dinner%20plate%3Aindex%3Aprice&price=79,1099&range=99,1099"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-B-3-Homeliving-Desktop-09Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner4",
+          "link": {
+            "href": "/in/en/c/dining-serving-traysandplatters?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-B-4-Homeliving-Desktop-09Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner5",
+          "link": {
+            "href": "/in/en/c/dining-crockery-dinnersets"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-B-5-Homeliving-Desktop-09Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner6",
+          "link": {
+            "href": "/in/en/c/dining-crockery-cupsandsaucers"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-B-6-Homeliving-Desktop-09Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner7",
+          "link": {
+            "href": "/in/en/c/dining-serving-glassesandjugs?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-B-7-Homeliving-Desktop-09Apr26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner8",
+          "link": {
+            "href": "/in/en/c/dining-tableaccessories"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-B-8-Homeliving-Desktop-09Apr26.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 10,
+      "section_name": "Bath & Laundry",
+      "section_heading": "Bath & Laundry",
+      "section_type": "modular_content",
+      "source_section_type": null,
+      "content_status": "loaded",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-homeliving-ModularBlocks-5-Banner1",
+          "banner_type": "lifestylein-DeptPage-homeliving-v2-Section3MSlot",
+          "banner_title": "Bath & Laundry",
+          "link": {
+            "href": "/in/en/c/bathandlaundry"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=70,fit=cover/LS-Fest/LS-new/desktopp-dept-5modblock-oneBytwo1-C-Homeliving-10Feb26.jpg",
+            "alt": "Bath & Laundry"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 11,
+      "section_name": "Bath & Laundry Category Carousel",
+      "section_heading": null,
+      "related_heading": "Bath & Laundry",
+      "section_type": "carousel",
+      "source_block_id": "block-lifestylein-DeptPage-homeliving-v2-Section3NSlot",
+      "content_status": "loaded",
+      "items": [
+        {
+          "banner_name": "banner1",
+          "link": {
+            "href": "/in/en/c/bathandlaundry-bath-bathmats?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-F-1-Homeliving-Desktop-10Feb26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner2",
+          "link": {
+            "href": "/in/en/c/bathandlaundry-bath-towel?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-F-2-Homeliving-Desktop-10Feb26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner3",
+          "link": {
+            "href": "/in/en/c/bathandlaundry-laundry?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-F-3-Homeliving-Desktop-10Feb26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner4",
+          "link": {
+            "href": "/in/en/c/bathandlaundry-bathaccessories-toiletpaperandbrushholders"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-F-4-Homeliving-Desktop-10Feb26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner5",
+          "link": {
+            "href": "/in/en/c/bathandlaundry-bathaccessories-soapdispensers?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-F-5-Homeliving-Desktop-10Feb26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner6",
+          "link": {
+            "href": "/in/en/c/bathandlaundry-bathaccessories-storageandmirrors?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-F-6-Homeliving-Desktop-10Feb26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner7",
+          "link": {
+            "href": "/in/en/c/bathandlaundry-bathaccessories-accessorysets?q=%3Aindex%3Aprice"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-F-7-Homeliving-Desktop-10Feb26.jpg"
+          }
+        },
+        {
+          "banner_name": "banner8",
+          "link": {
+            "href": "/in/en/c/bathandlaundry-bathaccessories-towelholders"
+          },
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=450,q=70,fit=cover/LS-Fest/LS-new/PC-F-8-Homeliving-Desktop-10Feb26.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

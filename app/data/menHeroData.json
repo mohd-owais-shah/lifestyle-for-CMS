@@ -1,0 +1,101 @@
+{
+  "hero_banners": [
+    {
+      "position": 1,
+      "banner_name": "lifestylein-DeptPage-men-TabbedBanner5",
+      "promotion_name": "Banne 2 :  New Style Reset-widget3",
+      "banner_type": "lifestylein-DeptPage-men-v2-MainBannerSlot",
+      "link": "/in/en/search?q=%3AbadgeInvisible_uFilter%3A388Z%3AbadgeVisibleTitle_uFilter%3A2%20At%2015%25%20OFF%3AallCategories%3Amen",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner5-desktop-MEN-08Oct26A.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner5-mobile-MEN-08Oct26A.jpg",
+      "image_id": "hero_banner_image_0"
+    },
+    {
+      "position": 2,
+      "banner_name": "lifestylein-DeptPage-men-TabbedBanner2",
+      "promotion_name": "Banner 7: Sneaker Store-widget3",
+      "banner_type": "lifestylein-DeptPage-men-v2-MainBannerSlot",
+      "link": "/in/en/c/men?q=%3AmanufacturerName_uFilter%3AAmerican%20Eagle",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/HP_LS_MEN_Desktop-2-30Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/HP_LS_MEN_Mobile-2-30Sep26.jpg",
+      "image_id": "hero_banner_image_1"
+    },
+    {
+      "position": 3,
+      "banner_name": "lifestylein-DeptPage-men-TabbedBanner3",
+      "promotion_name": "Banner 5 : Trendy Watches-widget3",
+      "banner_type": "lifestylein-DeptPage-men-v2-MainBannerSlot",
+      "link": "/in/en/c/men-winterwear",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/HP_LS_MEN_Desktop-3-01Oct26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/HP_LS_MEN_Mobile-3-01Oct26.jpg",
+      "image_id": "hero_banner_image_2"
+    },
+    {
+      "position": 4,
+      "banner_name": "lifestylein-DeptPage-men-TabbedBanner6",
+      "promotion_name": "Banner 4 : Most Loved Brands-widget3",
+      "banner_type": "lifestylein-DeptPage-men-v2-MainBannerSlot",
+      "link": "/in/en/search?q=%3AbadgeInvisible_uFilter%3A582Z%3AallCategories%3Amen",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner6-desktop-MEN-30Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner6-mobile-MEN-30Sep26.jpg",
+      "image_id": "hero_banner_image_3"
+    }
+  ],
+  "modular_blocks": [
+    {
+      "banner_name": "lifestylein-DeptPage-men-ModularBlocks-4-Banner1",
+      "promotion_name": "LMG Simple Responsive Component-widget4",
+      "banner_type": "lifestylein-DeptPage-men-v2-Section3ASlot",
+      "link": "/in/en/c/men?price=49,499&range=195,55495",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-Men-4modularblock-1-oneBythree-07Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/mobile-Men-4modularblock-1-oneBythree-07Sep26.jpg"
+    }
+  ],
+  "category_carousel": [
+    {
+      "position": 1,
+      "banner_name": "lifestylein-DeptPage-men-BannerCarousel-4-Banner1",
+      "promotion_name": "LMG Simple Responsive Component-widget4",
+      "banner_type": "lifestylein-DeptPage-men-v2-Section3ASlot",
+      "link": "/in/en/c/men-tops-tshirts?q=%3AbadgeVisibleTitle_uFilter%3ANew",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC4-Men-banner1-02Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC4-Men-banner1-02Sep26.jpg"
+    },
+    {
+      "position": 2,
+      "banner_name": "lifestylein-DeptPage-men-BannerCarousel-4-Banner2",
+      "promotion_name": "LMG Simple Responsive Component-widget4",
+      "banner_type": "lifestylein-DeptPage-men-v2-Section3ASlot",
+      "link": "/in/en/c/men-tops-polos?q=%3AbadgeVisibleTitle_uFilter%3ANew",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC4-Men-banner2-02Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC4-Men-banner2-02Sep26.jpg"
+    },
+    {
+      "position": 3,
+      "banner_name": "lifestylein-DeptPage-men-BannerCarousel-4-Banner3",
+      "promotion_name": "LMG Simple Responsive Component-widget4",
+      "banner_type": "lifestylein-DeptPage-men-v2-Section3ASlot",
+      "link": "/in/en/c/men-tops-casualshirts?q=%3AbadgeVisibleTitle_uFilter%3ANew",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC4-Men-banner3-02Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC4-Men-banner3-02Sep26.jpg"
+    },
+    {
+      "position": 4,
+      "banner_name": "lifestylein-DeptPage-men-BannerCarousel-4-Banner4",
+      "promotion_name": "LMG Simple Responsive Component-widget4",
+      "banner_type": "lifestylein-DeptPage-men-v2-Section3ASlot",
+      "link": "/in/en/c/men-bottoms-jeans?q=%3AbadgeVisibleTitle_uFilter%3ANew",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC4-Men-banner4-02Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC4-Men-banner4-02Sep26.jpg"
+    },
+    {
+      "position": 5,
+      "banner_name": "lifestylein-DeptPage-men-BannerCarousel-4-Banner5",
+      "promotion_name": "LMG Simple Responsive Component-widget4",
+      "banner_type": "lifestylein-DeptPage-men-v2-Section3ASlot",
+      "link": "/in/en/c/men-sportswear?q=%3AbadgeVisibleTitle_uFilter%3ANew",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC4-Men-banner5-02Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC4-Men-banner5-02Sep26.jpg"
+    }
+  ]
+}

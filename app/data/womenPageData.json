@@ -1,0 +1,335 @@
+[
+  {
+    "section_title": "Top Brands",
+    "banner": {
+      "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-Women-modblock-oneBythree-D-07Oct26.jpg"
+    },
+    "items": [
+      {
+        "brand_name": "Melange",
+        "price_text": "From ₹499",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel7-1-Women-Desktop-04Sept2026.jpg",
+        "link": "/in/en/c/women?q=%3AmanufacturerName_uFilter%3AMelange"
+      },
+      {
+        "brand_name": "CODE / Code Classic",
+        "price_text": "From ₹499",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel7-2-Women-Desktop-04Sept2026.jpg",
+        "link": "/in/en/c/women?q=%3AmanufacturerName_uFilter%3ACODE%3AmanufacturerName_uFilter%3ACode%20Classic"
+      },
+      {
+        "brand_name": "Fame Forever",
+        "price_text": "From ₹299",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel7-3-Women-Desktop-04Sept2026.jpg",
+        "link": "/in/en/c/women?q=%3AmanufacturerName_uFilter%3AFame%20Forever"
+      },
+      {
+        "brand_name": "Ginger",
+        "price_text": "From ₹399",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel7-4-Women-Desktop-04Sept2026.jpg",
+        "link": "/in/en/c/women?q=%3AmanufacturerName_uFilter%3AGinger"
+      },
+      {
+        "brand_name": "Colour Me By Melange",
+        "price_text": "From ₹499",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel7-5-Women-Desktop-04Sept2026.jpg",
+        "link": "/in/en/c/women?q=%3AmanufacturerName_uFilter%3AColour%20Me%20By%20Melange"
+      },
+      {
+        "brand_name": "Kappa",
+        "price_text": "From ₹399",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel7-6-Women-Desktop-04Sept2026.jpg",
+        "link": "/in/en/c/women?q=%3AmanufacturerName.en%3AKappa"
+      }
+    ]
+  },
+  {
+    "section_title": "Top Categories",
+    "items": [
+      {
+        "category_name": "Tops",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-1-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/c/women-tops"
+      },
+      {
+        "category_name": "Kurtas & Kurtis",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-2-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/c/women-ethnicwear-kurtasandkurtis"
+      },
+      {
+        "category_name": "Dresses & Jumpsuits",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-3-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/c/women?q=%3AallCategories%3Awomen-dressesandjumpsuits%3AallCategories%3Awomen-ethnicwear-dresses"
+      },
+      {
+        "category_name": "Bottomwear",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-4-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/c/women-bottoms?q=%3AallCategories%3Awomen-bottoms-jeansandjeggings%3AallCategories%3Awomen-bottoms-trousers%3AallCategories%3Awomen-bottoms-pants%3AallCategories%3Awomen-bottoms-joggers"
+      },
+      {
+        "category_name": "Salwar Suits",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-5-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/c/women-ethnicwear-salwarsuits"
+      },
+      {
+        "category_name": "Lingerie",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-6-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/c/women-lingerie"
+      },
+      {
+        "category_name": "Shirts",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-7-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/c/women-tops-shirts"
+      },
+      {
+        "category_name": "Sportswear",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-8-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/c/women-sportswear"
+      },
+      {
+        "category_name": "Plus Size",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-9-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/c/women-plussize"
+      },
+      {
+        "category_name": "Beauty",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-10-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/c/beauty?q=%3Agender_uFilter%3AWomen"
+      },
+      {
+        "category_name": "Watches",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-11-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/search?q=watch%3AallCategories%3Awomen"
+      },
+      {
+        "category_name": "Footwear",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC14-12-Desktop-Womendept-02Sep26.jpg",
+        "link": "/in/en/c/footwear-women"
+      }
+    ]
+  },
+  {
+    "section_title": "Trends Highlight",
+    "banner": {
+      "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-dept-modblock7-oneBythree-A-Women-12Aug26A.jpg",
+      "link": "/in/en/c/women-dressesandjumpsuits?discount=0,05"
+    },
+    "items": [
+      {
+        "category_name": "Shirts",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-1-Women-Desktop-12Aug26A.jpg",
+        "link": "/in/en/c/women-tops-shirts?discount=0,10"
+      },
+      {
+        "category_name": "Tees",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-2-Women-Desktop-12Aug26A.jpg",
+        "link": "/in/en/c/women-tops-tees?discount=0,10"
+      },
+      {
+        "category_name": "Topwear",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-3-Women-Desktop-12Aug26A.jpg",
+        "link": "/in/en/c/women-tops-topwear?discount=0,05"
+      },
+      {
+        "category_name": "Jeans & Jeggings",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-4-Women-Desktop-12Aug26A.jpg",
+        "link": "/in/en/c/women-bottoms-jeansandjeggings?discount=0,05"
+      }
+    ]
+  },
+  {
+    "section_title": "Brands we love",
+    "items": [
+      {
+        "brand_name": "Libas",
+        "offer_text": "Up To 50% Off",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-1-Desktop-Women-04Sept2026.jpg",
+        "link": "/in/en/c/women?q=%3AmanufacturerName_uFilter%3ALibas"
+      },
+      {
+        "brand_name": "ONLY",
+        "offer_text": "Up To 50% Off",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-2-Desktop-Women-04Sept2026.jpg",
+        "link": "/in/en/search?q=*%3AallCategories%3Awomen%3AmanufacturerName_uFilter%3AONLY"
+      },
+      {
+        "brand_name": "W / Aurelia",
+        "offer_text": "Up To 60% Off",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-3-Desktop-Women-04Sept2026.jpg",
+        "link": "/in/en/search?q=*%3AallCategories%3Awomen%3AmanufacturerName_uFilter%3AW%3AmanufacturerName_uFilter%3AAurelia"
+      },
+      {
+        "brand_name": "Vero Moda",
+        "offer_text": "From ₹1499",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-4-Desktop-Women-04Sept2026.jpg",
+        "link": "/in/en/search?q=*%3AallCategories%3Awomen%3AmanufacturerName_uFilter%3AVero%20Moda"
+      },
+      {
+        "brand_name": "BIBA",
+        "offer_text": "Up To 50% Off",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-5-Desktop-Women-04Sept2026.jpg",
+        "link": "/in/en/search?q=*%3AallCategories%3Awomen%3AmanufacturerName_uFilter%3ABIBA"
+      },
+      {
+        "brand_name": "Kraus",
+        "offer_text": "Up To 50% Off",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-6-Desktop-Women-04Sept2026.jpg",
+        "link": "/in/en/search?q=*%3AallCategories%3Awomen%3AmanufacturerName_uFilter%3AKraus"
+      },
+      {
+        "brand_name": "Span",
+        "offer_text": "Up To 50% Off",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-7-Desktop-Women-04Sept2026.jpg",
+        "link": "/in/en/search?q=*%3AallCategories%3Awomen%3AmanufacturerName_uFilter%3ASpan"
+      },
+      {
+        "brand_name": "Levi's",
+        "offer_text": "Up To 30% Off",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-8-Desktop-Women-04Sept2026.jpg",
+        "link": "/in/en/search?q=*%3AallCategories%3Awomen%3AmanufacturerName_uFilter%3ALevi%27s"
+      },
+      {
+        "brand_name": "AND",
+        "offer_text": "Up To 50% Off",
+        "image_url": "https://assets-cloud.landmarkshops.in/website_images/static-pages/brand_exp/brand2images/loadingimages/lifestyle/in/en/loading_150@2x.png",
+        "link": "/in/en/search?q=*%3AallCategories%3Awomen%3AmanufacturerName_uFilter%3AAND"
+      },
+      {
+        "brand_name": "Triumph",
+        "offer_text": "Up To 50% Off",
+        "image_url": "https://assets-cloud.landmarkshops.in/website_images/static-pages/brand_exp/brand2images/loadingimages/lifestyle/in/en/loading_150@2x.png",
+        "link": "/in/en/search?q=*%3AallCategories%3Awomen%3AmanufacturerName_uFilter%3ATriumph"
+      }
+    ]
+  },
+  {
+    "section_title": "Lingerie Love",
+    "banner": {
+      "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-dept-18modblock-oneBythree-A-Women-08Sep26.jpg",
+      "link": "/in/en/c/women?q=allCategories%3Awomen-lingerie"
+    },
+    "items": [
+      {
+        "category_name": "Padded Bras",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel9-1-Women-Desktop-02Sep26.jpg",
+        "link": "/in/en/c/women-lingerie-bras?q=%3AallCategories%3Awomen-lingerie%3AallCategories%3Awomen-nightwear%3Apadding_uFilter%3ALightly%20Padded%3Apadding_uFilter%3APadded"
+      },
+      {
+        "category_name": "Non-Padded Bras",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel9-2-Women-Desktop-02Sep26.jpg",
+        "link": "/in/en/c/women-lingerie-bras?q=%3AallCategories%3Awomen-lingerie%3AallCategories%3Awomen-nightwear%3Apadding_uFilter%3ANon-Padded"
+      },
+      {
+        "category_name": "Panties",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel9-3-Women-Desktop-02Sep26.jpg",
+        "link": "/in/en/c/women-lingerie-panties"
+      },
+      {
+        "category_name": "Sports Bras",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel9-4-Women-Desktop-02Sep26.jpg",
+        "link": "/in/en/c/women-lingerie-bras?q=%3Atype.en%3ASports%20Bra%3Atype.en%3ASports"
+      },
+      {
+        "category_name": "Shapewear",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel9-5-Women-Desktop-02Sep26.jpg",
+        "link": "/in/en/c/women-lingerie-shapewear"
+      },
+      {
+        "category_name": "Slips & Camis",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel9-6-Women-Desktop-02Sep26.jpg",
+        "link": "/in/en/c/women-lingerie-slips"
+      },
+      {
+        "category_name": "Panty Packs",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel9-7-Women-Desktop-02Sep26.jpg",
+        "link": "/in/en/search?q=pack%3AallCategories%3Awomen-lingerie-panties"
+      },
+      {
+        "category_name": "Bra Packs",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-Carousel9-8-Women-Desktop-02Sep26.jpg",
+        "link": "/in/en/search?q=pack%3AallCategories%3Awomen-lingerie-bras"
+      }
+    ],
+    "bottom_banner": {
+      "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-women-mblk1-A-08Sep26.jpg",
+      "link": "/in/en/c/women-nightwear"
+    }
+  },
+  {
+    "section_title": "Shop By Occasion",
+    "items": [
+      {
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-D-1-Women-Desktop-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/c/women?q=badge.invisible%3A217Y"
+      },
+      {
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-D-2-Women-Desktop-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/c/women?q=%3AmanufacturerName_uFilter%3ACode%20Classic%3AmanufacturerName_uFilter%3ARareism%3AmanufacturerName_uFilter%3AVan%20Heusen%3AmanufacturerName_uFilter%3AAllen%20Solly%3AmanufacturerName_uFilter%3ACODE"
+      },
+      {
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-D-3-Women-Desktop-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/c/women-ethnicwear"
+      },
+      {
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-D-4-Women-Desktop-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/c/women-sportswear"
+      },
+      {
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-D-5-Women-Desktop-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/c/women?q=%3AbadgeInvisible_uFilter%3A171W%3AallCategories%3Awomen%3Aindex%3Arecent-products"
+      }
+    ]
+  },
+  {
+    "section_title": "Complete The Look",
+    "items": [
+      {
+        "category_name": "Footwear",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-1-Desktop-Women-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/c/footwear-women"
+      },
+      {
+        "category_name": "Beauty",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-2-Desktop-Women-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/c/beauty"
+      },
+      {
+        "category_name": "Watches",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-3-Desktop-Women-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/c/women-watches?q=%3AallCategories%3Awomen-watches%3AallCategories%3Awomen-sunglasses%3AallCategories%3Awomen-accessories%3AallCategories%3Awomen-facemasks"
+      },
+      {
+        "category_name": "Fragrances",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-4-Desktop-Women-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/c/beauty-fragrance?q=%3Agender.en%3AWomen"
+      },
+      {
+        "category_name": "Bags",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-5-Desktop-Women-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/c/bags?q=%3Agender_uFilter%3AWomen"
+      },
+      {
+        "category_name": "Jewellery",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-6-Desktop-Women-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/c/women-fashionjewellery"
+      },
+      {
+        "category_name": "Sunglasses",
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-7-Desktop-Women-02Sep26.jpg",
+        "mobile_image_url": null,
+        "link": "/in/en/search?q=%3AbadgeInvisible_uFilter%3A007T%3Agender_uFilter%3AWomen%3Agender_uFilter%3AUnisex"
+      }
+    ]
+  }
+]

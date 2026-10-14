@@ -1,0 +1,64 @@
+{
+  "hero_banners": [
+    {
+      "position": 1,
+      "banner_name": "lifestylein-DeptPage-kids-TabbedBanner5",
+      "promotion_name": "Banner 5(Best of brands girls)-widget3",
+      "banner_type": "lifestylein-DeptPage-kids-v2-MainBannerSlot",
+      "link": "/in/en/search?q=%3AbadgeInvisible_uFilter%3A388Z%3AbadgeVisibleTitle_uFilter%3A2%20At%2015%25%20OFF%3AallCategories%3Akids",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner5-desktop-Kids-08Oct26A.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner5-mobile-Kids-08Oct26A.jpg",
+      "image_id": "hero_banner_image_0"
+    },
+    {
+      "position": 2,
+      "banner_name": "lifestylein-DeptPage-kids-TabbedBanner2",
+      "promotion_name": "Banner 2(Under 499)-widget3",
+      "banner_type": "lifestylein-DeptPage-kids-v2-MainBannerSlot",
+      "link": "/in/en/c/kids-girlsclothing?q=%3AmanufacturerName_uFilter%3APeppermint",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner2-desktop-Kids-30Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner2-mobile-Kids-30Sep26.jpg",
+      "image_id": "hero_banner_image_1"
+    },
+    {
+      "position": 3,
+      "banner_name": "lifestylein-DeptPage-kids-TabbedBanner3",
+      "promotion_name": "Banner 3(new arrival)-widget3",
+      "banner_type": "lifestylein-DeptPage-kids-v2-MainBannerSlot",
+      "link": "/in/en/search?q=%3AbadgeInvisible_uFilter%3A582Z%3AallCategories%3Akids",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner3-desktop-Kids-30Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner3-mobile-Kids-30Sep26.jpg",
+      "image_id": "hero_banner_image_2"
+    },
+    {
+      "position": 4,
+      "banner_name": "lifestylein-DeptPage-kids-TabbedBanner1",
+      "promotion_name": "Banner 1(Super Sep sale)-widget3",
+      "banner_type": "lifestylein-DeptPage-kids-v2-MainBannerSlot",
+      "link": "/in/en/search?q=babyshop",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/HP_LS_Kids_Desktop-1-07Oct26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/HP_LS_Kids_Mobile-1-07Oct26.jpg",
+      "image_id": "hero_banner_image_3"
+    },
+    {
+      "position": 5,
+      "banner_name": "lifestylein-DeptPage-kids-TabbedBanner4",
+      "promotion_name": "Banner 4(Best of brands boys)-widget3",
+      "banner_type": "lifestylein-DeptPage-kids-v2-MainBannerSlot",
+      "link": "/in/en/c/kids-winterwear",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner4-desktop-Kids-01Oct26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner4-mobile-Kids-01Oct26.jpg",
+      "image_id": "hero_banner_image_4"
+    }
+  ],
+  "modular_blocks": [
+    {
+      "banner_name": "lifestylein-DeptPage-kids-ModularBlocks-4-Banner1",
+      "promotion_name": "LMG Simple Responsive Component-widget4",
+      "banner_type": "lifestylein-DeptPage-kids-v2-Section2ASlot",
+      "link": "/in/en/search?q=*%3AallCategories%3Akids&price=49,299&range=49,81900",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-dept-4modblock-oneBythree-A-Kids-07Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/mobile-dept-4modblock-oneBythree-A-Kids-07Sep26.jpg"
+    }
+  ]
+}

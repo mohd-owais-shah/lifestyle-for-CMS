@@ -1,0 +1,24 @@
+# Thank-you page "View my order" button that sends the buyer back to the
+# Hydrogen storefront's order page (/order-confirmed -> /account/orders/:id).
+# Copy this file and src/ThankYou.jsx into an extension generated with:
+#   shopify app generate extension --template checkout_ui --name thank-you-order-link
+# then keep the `uid` the CLI generated.
+
+api_version = "2026-07"
+
+[[extensions]]
+name = "thank-you-order-link"
+handle = "thank-you-order-link"
+type = "ui_extension"
+
+[[extensions.targeting]]
+module = "./src/ThankYou.jsx"
+target = "purchase.thank-you.header.render-after"
+
+[extensions.settings]
+
+[[extensions.settings.fields]]
+key = "storefront_url"
+type = "single_line_text_field"
+name = "Hydrogen storefront URL"
+description = "Full URL of the Hydrogen store, e.g. https://www.example.com (no trailing slash)."

@@ -1,0 +1,63 @@
+{
+  "page": "Kids",
+  "sections": [
+    {
+      "section_name": "Shop By Department",
+      "section_id": "lifestylein-DeptPage-kids-v2-Section3JSlot",
+      "section_type": "banner_grid",
+      "items": [
+        {
+          "banner_name": "lifestylein-DeptPage-kids-ModularBlocks-1-Banner1",
+          "banner_type": "lifestylein-DeptPage-kids-v2-Section3JSlot",
+          "banner_title": "SHOP KIDS",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget14",
+          "promotion_position": "Slot1",
+          "impression_tracked": true,
+          "href": "/departments/kids_department",
+          "target": "_self",
+          "aria_label": "banner-links",
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-Kids-modularblock-one-img-03Mar26.jpg",
+            "alt": "Shop By Department",
+            "filter": "none"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-kids-ModularBlocks-1-Banner2",
+          "banner_type": "lifestylein-DeptPage-kids-v2-Section3JSlot",
+          "banner_title": "SHOP BEAUTY",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget14",
+          "promotion_position": "Slot2",
+          "impression_tracked": true,
+          "href": "/departments/beauty_department",
+          "target": "_self",
+          "aria_label": "banner-links",
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=500,q=85,fit=cover/LS-Fest/LS-new/desktop-Kids-modularblock-two-img-03Mar26.jpg",
+            "alt": "Shop By Department",
+            "filter": "none"
+          }
+        },
+        {
+          "banner_name": "lifestylein-DeptPage-kids-ModularBlocks-1-Banner3",
+          "banner_type": "lifestylein-DeptPage-kids-v2-Section3JSlot",
+          "banner_title": "SHOP FOOTWEAR",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget14",
+          "promotion_position": "Slot3",
+          "impression_tracked": true,
+          "href": "/departments/footwear_department",
+          "target": "_self",
+          "aria_label": "banner-links",
+          "image": {
+            "src": "https://cms.landmarkshops.in/cdn-cgi/image/w=500,q=85,fit=cover/LS-Fest/LS-new/desktop-Kids-modularblock-three-img-13Mar26.jpg",
+            "alt": "Shop By Department",
+            "filter": "none"
+          }
+        }
+      ]
+    }
+  ]
+}

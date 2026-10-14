@@ -1,0 +1,372 @@
+{
+  "sections": [
+    {
+      "section_id": "block-lifestylein-DeptPage-footwear-v2-Section3CSlot",
+      "title": "New Arrivals",
+      "main_banner": {
+        "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-department-modularblock-oneBythree-D-Footwear-06Oct26.jpg",
+        "link_url": "/in/en/c/footwear?q=%3AmanufacturerName_uFilter%3ACrocs",
+        "alt_text": "New Arrivals"
+      },
+      "items": [
+        {
+          "position": 1,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-H-1-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/c/footwear-women?q=%3AbadgeVisibleTitle_uFilter%3ANew",
+          "alt_text": ""
+        },
+        {
+          "position": 2,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-H-2-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/c/footwear-men?q=%3AbadgeVisibleTitle_uFilter%3ANew",
+          "alt_text": ""
+        },
+        {
+          "position": 3,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-H-3-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/c/footwear-girls?q=%3AbadgeVisibleTitle_uFilter%3ANew",
+          "alt_text": ""
+        },
+        {
+          "position": 4,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-H-4-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/c/footwear-boys?q=%3AbadgeVisibleTitle_uFilter%3ANew",
+          "alt_text": ""
+        }
+      ]
+    },
+    {
+      "section_id": "block-lifestylein-DeptPage-footwear-v2-Section3DSlot",
+      "title": "Top Categories",
+      "main_banner": null,
+      "items": [
+        {
+          "position": 1,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-J-1-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/c/footwear-women-heels",
+          "alt_text": "Top Categories"
+        },
+        {
+          "position": 2,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-J-2-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/c/footwear-women-sandals",
+          "alt_text": "Top Categories"
+        },
+        {
+          "position": 3,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-J-3-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/c/footwear-women-boots",
+          "alt_text": "Top Categories"
+        },
+        {
+          "position": 4,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-J-4-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/c/footwear-women-casualshoes",
+          "alt_text": "Top Categories"
+        },
+        {
+          "position": 5,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-J-5-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/search?q=*%3AallCategories%3Afootwear-women-sportsshoes%3AallCategories%3Afootwear-men-sportsshoes",
+          "alt_text": "Top Categories"
+        },
+        {
+          "position": 6,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-J-6-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/search?q=formal%20shoes%3AallCategories%3Afootwear-men",
+          "alt_text": "Top Categories"
+        },
+        {
+          "position": 7,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-J-7-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/search?q=*%3AallCategories%3Afootwear%3Atype_uFilter%3AClogs%3Atype_uFilter%3ASliders",
+          "alt_text": "Top Categories"
+        },
+        {
+          "position": 8,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-J-8-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/c/footwear-men-boots?q=%3Atype.en%3ABoots",
+          "alt_text": "Top Categories"
+        },
+        {
+          "position": 9,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-J-9-Desktop-Shoes-02Sep26.jpg",
+          "link_url": "/in/en/c/footwear-men-loafersandmoccasin",
+          "alt_text": "Top Categories"
+        }
+      ]
+    },
+    {
+      "section_id": "block-lifestylein-DeptPage-footwear-v2-Section3FSlot",
+      "title": "Top Brands",
+      "main_banner": null,
+      "items": [
+        {
+          "position": 1,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-1-Desktop-Shoes-20Aug26.jpg",
+          "link_url": "/in/en/c/footwear-women?q=%3AmanufacturerName_uFilter%3AGinger",
+          "alt_text": "Top Brands"
+        },
+        {
+          "position": 2,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-3-Desktop-Shoes-20Aug26.jpg",
+          "link_url": "/in/en/c/footwear?q=%3AmanufacturerName_uFilter%3ACODE",
+          "alt_text": "Top Brands"
+        },
+        {
+          "position": 3,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-5-Desktop-Shoes-20Aug26.jpg",
+          "link_url": "/in/en/c/footwear?q=%3AmanufacturerName_uFilter%3AFame%20Forever",
+          "alt_text": "Top Brands"
+        },
+        {
+          "position": 4,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-6-Desktop-Shoes-20Aug26.jpg",
+          "link_url": "/in/en/c/footwear-men?q=%3AmanufacturerName_uFilter%3AForca",
+          "alt_text": "Top Brands"
+        },
+        {
+          "position": 5,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-7-Desktop-Shoes-20Aug26.jpg",
+          "link_url": "/in/en/c/footwear?q=%3AmanufacturerName_uFilter%3AKappa",
+          "alt_text": "Top Brands"
+        },
+        {
+          "position": 6,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-G-8-Desktop-Shoes-20Aug26.jpg",
+          "link_url": "/in/en/c/footwear-men?q=%3AmanufacturerName_uFilter%3AReebok",
+          "alt_text": "Top Brands"
+        }
+      ]
+    },
+    {
+      "section_id": "block-lifestylein-DeptPage-footwear-v2-Section3GSlot",
+      "title": "Trends Highlight",
+      "main_banner": null,
+      "items": [
+        {
+          "position": 1,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC13-1-Desktop-Shoes-03Sep2026.jpg",
+          "link_url": "/in/en/search?q=*%3AallCategories%3Afootwear%3Atype_uFilter%3ASports%20Shoes",
+          "alt_text": "Trends Highlight"
+        },
+        {
+          "position": 2,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC13-2-Desktop-Shoes-03Sep2026.jpg",
+          "link_url": "/in/en/search?q=*%3AallCategories%3Afootwear%3Atype_uFilter%3ASneakers",
+          "alt_text": "Trends Highlight"
+        },
+        {
+          "position": 3,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC13-3-Desktop-Shoes-03Sep2026.jpg",
+          "link_url": "/in/en/search?q=Formal%3AallCategories%3Afootwear",
+          "alt_text": "Trends Highlight"
+        },
+        {
+          "position": 4,
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-BC13-4-Desktop-Shoes-03Sep2026.jpg",
+          "link_url": "/in/en/c/footwear-women-sandals",
+          "alt_text": "Trends Highlight"
+        }
+      ]
+    },
+    {
+      "section_id": "block-lifestylein-DeptPage-footwear-v2-Section3HSlot",
+      "section_title": "",
+      "banner_type": "lifestylein-DeptPage-footwear-v2-Section3HSlot",
+      "items": [
+        {
+          "position": 1,
+          "banner_name": "lifestylein-DeptPage-footwear-ModularBlocks-1-Banner1",
+          "title": "",
+          "link": "/in/en/search?q=socks%3AallCategories%3Afootwear",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/desktop-dept-10modblock-oneBythree-A-stripBanner1-23Sep26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget10",
+          "promotion_position": "Slot1"
+        }
+      ]
+    },
+    {
+      "section_id": "block-lifestylein-DeptPage-footwear-v2-Section3JSlot",
+      "section_title": "Featured Brands",
+      "banner_type": "lifestylein-DeptPage-footwear-v2-Section3JSlot",
+      "items": [
+        {
+          "position": 1,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-2-Banner1",
+          "title": "Featured Brands",
+          "link": "/in/en/c/footwear-men?q=%3AmanufacturerName_uFilter%3AAdidas",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-1-Desktop-LS-Shoes-20Aug26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget11",
+          "promotion_position": "Slot1"
+        },
+        {
+          "position": 2,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-2-Banner2",
+          "title": "Featured Brands",
+          "link": "/in/en/c/footwear-men?q=%3AmanufacturerName_uFilter%3ARare%20Rabbit",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-2-Desktop-LS-Shoes-20Aug26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget11",
+          "promotion_position": "Slot2"
+        },
+        {
+          "position": 3,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-2-Banner3",
+          "title": "Featured Brands",
+          "link": "/in/en/c/footwear-men?q=%3AmanufacturerName_uFilter%3ALotto",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-3-Desktop-LS-Shoes-20Aug26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget11",
+          "promotion_position": "Slot3"
+        },
+        {
+          "position": 4,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-2-Banner4",
+          "title": "Featured Brands",
+          "link": "/in/en/c/footwear?q=%3AmanufacturerName_uFilter%3AHush%20Puppies",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-4-Desktop-LS-Shoes-20Aug26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget11",
+          "promotion_position": "Slot4"
+        },
+        {
+          "position": 5,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-2-Banner5",
+          "title": "Featured Brands",
+          "link": "/in/en/c/footwear?q=%3AmanufacturerName_uFilter%3ABata",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-5-Desktop-LS-Shoes-20Aug26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget11",
+          "promotion_position": "Slot5"
+        },
+        {
+          "position": 6,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-2-Banner6",
+          "title": "Featured Brands",
+          "link": "/in/en/c/footwear-women?q=%3AmanufacturerName_uFilter%3ARocia",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-B-6-Desktop-LS-Shoes-20Aug26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget11",
+          "promotion_position": "Slot6"
+        }
+      ]
+    },
+    {
+      "section_id": "block-lifestylein-DeptPage-footwear-v2-Section3KSlot",
+      "section_title": "Price Point Store",
+      "banner_type": "lifestylein-DeptPage-footwear-v2-Section3KSlot",
+      "items": [
+        {
+          "position": 1,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-3-Banner1",
+          "title": "Price Point Store",
+          "link": "/in/en/c/footwear?price=149,499&range=149,17999",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-1-Desktop-Shoes-02Sep26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget12",
+          "promotion_position": "Slot1"
+        },
+        {
+          "position": 2,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-3-Banner2",
+          "title": "Price Point Store",
+          "link": "/in/en/c/footwear?price=149,799&range=149,17999",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-2-Desktop-Shoes-02Sep26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget12",
+          "promotion_position": "Slot2"
+        },
+        {
+          "position": 3,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-3-Banner3",
+          "title": "Price Point Store",
+          "link": "/in/en/c/footwear?price=149,999&range=149,17999",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-3-Desktop-Shoes-02Sep26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget12",
+          "promotion_position": "Slot3"
+        },
+        {
+          "position": 4,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-3-Banner4",
+          "title": "Price Point Store",
+          "link": "/in/en/c/footwear?price=149,1499&range=149,17999",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-4-Desktop-Shoes-02Sep26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget12",
+          "promotion_position": "Slot4"
+        },
+        {
+          "position": 5,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-3-Banner5",
+          "title": "Price Point Store",
+          "link": "/in/en/c/footwear?price=149,1999&range=149,17999",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-5-Desktop-Shoes-02Sep26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget12",
+          "promotion_position": "Slot5"
+        },
+        {
+          "position": 6,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-3-Banner6",
+          "title": "Price Point Store",
+          "link": "/in/en/c/footwear?price=149,2499&range=149,17999",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/LS-PC-C-6-Desktop-Shoes-02Sep26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "LMG Simple Responsive Component-widget12",
+          "promotion_position": "Slot6"
+        }
+      ]
+    },
+    {
+      "section_id": "block-lifestylein-DeptPage-footwear-v2-Section3LSlot",
+      "section_title": "Shop By Occasion",
+      "banner_type": "lifestylein-DeptPage-footwear-v2-Section3LSlot",
+      "items": [
+        {
+          "position": 1,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-1-Banner1",
+          "title": "Shop By Occasion",
+          "link": "/in/en/search?q=%3AbadgeInvisible_uFilter%3A138Z%3AallCategories%3Afootwear&price=999,3499&range=399,3499",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-A-1-Desktop-footwear-02Sep26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "Block 1: Ballerinas-widget13",
+          "promotion_position": "Slot1"
+        },
+        {
+          "position": 2,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-1-Banner2",
+          "title": "Shop By Occasion",
+          "link": "/in/en/search?q=Flip%20Flops%3AallCategories%3Afootwear",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-A-2-Desktop-footwear-02Sep26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "Block 2: Flats-widget13",
+          "promotion_position": "Slot2"
+        },
+        {
+          "position": 3,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-1-Banner3",
+          "title": "Shop By Occasion",
+          "link": "/in/en/search?q=*%3AallCategories%3Afootwear%3Atype_uFilter%3ASports%20Shoes",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-A-3-Desktop-footwear-02Sep26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "Block 3: Women's Casual Shoes-widget13",
+          "promotion_position": "Slot3"
+        },
+        {
+          "position": 4,
+          "banner_name": "lifestylein-DeptPage-footwear-BannerCarousel-1-Banner4",
+          "title": "Shop By Occasion",
+          "link": "/in/en/search?q=Formal%3AallCategories%3Afootwear%3Aindex%3Aprice-revers",
+          "image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=288,q=85,fit=cover/LS-Fest/LS-new/PC-A-4-Desktop-footwear-02Sep26.jpg",
+          "promotion_id": "Content Slot",
+          "promotion_name": "Block 4: Heels-widget13",
+          "promotion_position": "Slot4"
+        }
+      ]
+    }
+  ]
+}

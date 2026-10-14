@@ -1,0 +1,79 @@
+{
+  "default": {
+    "deliveryDays": "5-7 days",
+    "deliveryText": "Delivery in 5-7 days",
+    "isServiceable": true
+  },
+  "pincodes": {
+    "385520": {
+      "city": "Dhanera",
+      "state": "Gujarat",
+      "deliveryDays": "5-7 days",
+      "deliveryText": "Delivery in 5-7 days",
+      "isServiceable": true
+    },
+    "380001": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "deliveryDays": "3-5 days",
+      "deliveryText": "Delivery in 3-5 days",
+      "isServiceable": true
+    },
+    "110001": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "deliveryDays": "2-4 days",
+      "deliveryText": "Delivery in 2-4 days",
+      "isServiceable": true
+    },
+    "400001": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "deliveryDays": "2-4 days",
+      "deliveryText": "Delivery in 2-4 days",
+      "isServiceable": true
+    },
+    "560001": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "deliveryDays": "3-5 days",
+      "deliveryText": "Delivery in 3-5 days",
+      "isServiceable": true
+    },
+    "600001": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "deliveryDays": "3-5 days",
+      "deliveryText": "Delivery in 3-5 days",
+      "isServiceable": true
+    },
+    "700001": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "deliveryDays": "4-6 days",
+      "deliveryText": "Delivery in 4-6 days",
+      "isServiceable": true
+    },
+    "500001": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "deliveryDays": "3-5 days",
+      "deliveryText": "Delivery in 3-5 days",
+      "isServiceable": true
+    },
+    "411001": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "deliveryDays": "3-5 days",
+      "deliveryText": "Delivery in 3-5 days",
+      "isServiceable": true
+    },
+    "302001": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "deliveryDays": "4-6 days",
+      "deliveryText": "Delivery in 4-6 days",
+      "isServiceable": true
+    }
+  }
+}

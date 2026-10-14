@@ -1,0 +1,64 @@
+{
+  "hero_banners": [
+    {
+      "position": 1,
+      "banner_name": "lifestylein-DeptPage-footwear-TabbedBanner4",
+      "promotion_name": "S&B_Banner_5_KidsFootwear_9may-widget3",
+      "banner_type": "lifestylein-DeptPage-footwear-v2-MainBannerSlot",
+      "link": "/in/en/search?q=%3AbadgeInvisible_uFilter%3A388Z%3AbadgeVisibleTitle_uFilter%3A2%20At%2015%25%20OFF%3AallCategories%3Afootwear",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner4-desktop-Footwear-08Oct26A.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner4-mobile-Footwear-08Oct26A.jpg",
+      "image_id": "hero_banner_image_0"
+    },
+    {
+      "position": 2,
+      "banner_name": "lifestylein-DeptPage-footwear-TabbedBanner5",
+      "promotion_name": "S&B_Banner_6_Handbags_9may-widget3",
+      "banner_type": "lifestylein-DeptPage-footwear-v2-MainBannerSlot",
+      "link": "/in/en/search?q=%3AbadgeInvisible_uFilter%3A582Z%3AallCategories%3Afootwear",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner5-desktop-ShoeandBags-30Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner5-mobile-ShoeandBags-30Sep26.jpg",
+      "image_id": "hero_banner_image_1"
+    },
+    {
+      "position": 3,
+      "banner_name": "lifestylein-DeptPage-footwear-TabbedBanner2",
+      "promotion_name": "S&B_Banner_3_WomenFootwear_9may-widget3",
+      "banner_type": "lifestylein-DeptPage-footwear-v2-MainBannerSlot",
+      "link": "/in/en/c/footwear-women?q=%3AmanufacturerName_uFilter%3AGinger&price=149,999&range=149,2499",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner2-desktop-Footwear-18Jun26A.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner2-mobile-Footwear-18Jun26A.jpg",
+      "image_id": "hero_banner_image_2"
+    },
+    {
+      "position": 4,
+      "banner_name": "lifestylein-DeptPage-footwear-TabbedBanner3",
+      "promotion_name": "S&B_Banner_4_MenFootwear_9may-widget3",
+      "banner_type": "lifestylein-DeptPage-footwear-v2-MainBannerSlot",
+      "link": "/in/en/search?q=%3AbadgeInvisible_uFilter%3A211Z%3AallCategories%3Afootwear",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner3-desktop-Footwear-30Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner3-mobile-Footwear-30Sep26.jpg",
+      "image_id": "hero_banner_image_3"
+    },
+    {
+      "position": 5,
+      "banner_name": "lifestylein-DeptPage-footwear-TabbedBanner6",
+      "promotion_name": "S&B_Banner_2_Extra250_9may-widget3",
+      "banner_type": "lifestylein-DeptPage-footwear-v2-MainBannerSlot",
+      "link": "/in/en/c/footwear?q=%3AmanufacturerName_uFilter%3ACODE&price=299,999&range=299,2249",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-Banner6-desktop-Footwear-18Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-Banner6-mobile-Footwear-18Sep26.jpg",
+      "image_id": "hero_banner_image_4"
+    }
+  ],
+  "modular_blocks": [
+    {
+      "banner_name": "lifestylein-DeptPage-footwear-ModularBlocks-2-Banner1",
+      "promotion_name": "S&B_FestiveDrops_B1_womenFW&HB_22sep-widget4",
+      "banner_type": "lifestylein-DeptPage-footwear-v2-Section2ASlot",
+      "link": "/in/en/c/footwear?price=149,499&range=149,17999",
+      "desktop_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=1232,q=85,fit=cover/LS-Fest/LS-new/LS-SM-desktop-department-mb-oneBytwo1A-footwear-07Sep26.jpg",
+      "mobile_image_url": "https://cms.landmarkshops.in/cdn-cgi/image/w=768,q=85,fit=cover/LS-Fest/LS-new/LS-SM-mobile-department-mb-oneBytwo1A-footwear-07Sep26.jpg"
+    }
+  ]
+}
